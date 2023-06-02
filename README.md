@@ -1,0 +1,1 @@
+Aplicativo sobre frutas e seus valores nutricionais. O link da fonte das informações é um 'placeholder', apenas um campo que pode ser substituído por qualquer outro. Todas as imagens são de domínio público.
